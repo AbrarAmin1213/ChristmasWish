@@ -1,9 +1,9 @@
 const cacheName = "DefaultCompany-Christmas-0.1";
 const contentToCache = [
-    "Build/Wish.loader.js",
-    "Build/Wish.framework.js",
-    "Build/Wish.data",
-    "Build/Wish.wasm",
+    "Build/ChristmasWish.loader.js",
+    "Build/ChristmasWish.framework.js",
+    "Build/ChristmasWish.data",
+    "Build/ChristmasWish.wasm",
     "TemplateData/style.css"
 
 ];
